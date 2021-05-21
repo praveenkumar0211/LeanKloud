@@ -3,7 +3,7 @@
 
 <h3>Part 1</h3>
 <p align="justify">
-<ol><u>Implemented Todo app with Following features:</u> 
+<ol> <h4>Implemented Todo app with Following features:</h4> 
   <li>Authorization for creating new Task and updating status of existing task.</li>
   <li>GET method that retrives all the task </li>
   <li>GET method that retrives task of particular ID </li>
