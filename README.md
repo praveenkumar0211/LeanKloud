@@ -15,3 +15,5 @@
   <li>DELETE method that deletes a particular task given its id</li>
   </ol>
   </p>
+<h3>Part 2</h3>
+<p>Found the solution to the problem with Run-time complexity of O(nlogn)</p>
